@@ -1,0 +1,21 @@
+---------------------------------------------
+Packet Loss and File Corruption Report
+---------------------------------------------
+
+ Packet Loss Detected:
+[2025-10-16 08:33:10] Packet loss detected (15%) to server
+[2025-10-16 08:37:12] Packet loss detected (5%) to 192.168.1.30
+
+ Network Timeouts / Unreachable Hosts:
+[2025-10-16 08:41:02] [2025-10-16 08:41:02] ERROR: Connection timeout while reaching 192.168.1.10
+
+ File Corruption / Checksum Errors:
+[2025-10-16 08:34:02] [2025-10-16 08:34:02] ERROR: File checksum mismatch in /data/backup/file1.zip
+[2025-10-16 08:39:55] [2025-10-16 08:39:55] ERROR: Corrupted file found in /data/archive/data_04.bin
+
+ Summary:
+Total log entries: 7
+Packet loss events: 2
+Corruption events: 2
+Timeout events: 1
+---------------------------------------------

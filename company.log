@@ -1,0 +1,7 @@
+[2025-10-16 08:32:21] INFO: Network connection established to 192.168.1.20
+[2025-10-16 08:33:10] WARNING: Packet loss detected (15%) to server 192.168.1.20
+[2025-10-16 08:34:02] ERROR: File checksum mismatch in /data/backup/file1.zip
+[2025-10-16 08:35:44] INFO: Backup completed successfully
+[2025-10-16 08:37:12] WARNING: Packet loss detected (5%) to 192.168.1.30
+[2025-10-16 08:39:55] ERROR: Corrupted file found in /data/archive/data_04.bin
+[2025-10-16 08:41:02] ERROR: Connection timeout while reaching 192.168.1.10
